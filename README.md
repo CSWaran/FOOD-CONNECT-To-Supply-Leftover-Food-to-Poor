@@ -67,14 +67,6 @@ Food waste is a global issue, yet millions go hungry every day. FOOD CONNECT aim
 - Reports & Dashboards: Data-driven insights at a glance.  
 - User-Friendly Interface: Intuitive navigation via tabs and a Lightning App.  
 
----
-
-## How to Get Started  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/shraddhatiwari25/FOOD-CONNECT-To-Supply-Leftover-Food-to-Poor.git
-
    
 ---   
 
